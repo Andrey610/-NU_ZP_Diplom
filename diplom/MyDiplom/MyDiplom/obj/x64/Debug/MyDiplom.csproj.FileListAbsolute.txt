@@ -1,0 +1,14 @@
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\bin\x64\Debug\MyDiplom.exe.config
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\bin\x64\Debug\MyDiplom.exe
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\bin\x64\Debug\MyDiplom.pdb
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.Form1.resources
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.menu.resources
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.Properties.Resources.resources
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.rmo.resources
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.vizit.resources
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.exe
+C:\Users\Andrey\Desktop\diplom\MyDiplom\MyDiplom\obj\x64\Debug\MyDiplom.pdb
